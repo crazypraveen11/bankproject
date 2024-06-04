@@ -5,7 +5,7 @@ import { Homepage } from "./mainpage";
 function App() {
   return (
     <>
-    <Homepage/>
+      <Homepage />
     </>
   );
 }

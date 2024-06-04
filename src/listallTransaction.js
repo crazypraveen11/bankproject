@@ -1,11 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-icons/font/bootstrap-icons.css'
 
-export let Listalltransaction=()=>{
+export let Listalltransaction = () => {
 
-    return(
+    return (
         <>
-        <div className="container mt-2" >
+            <div className="container mt-2" >
                 <div className="row justify-content-center">
                     <div className="table-responsive-md " style={{ overflowX: 'auto' }}>
                         <table className=" table table-striped table-primary">

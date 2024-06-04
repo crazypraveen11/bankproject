@@ -1,12 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-icons/font/bootstrap-icons.css'
 
-export var Viewaccountdetails=()=>{
+export var Viewaccountdetails = () => {
 
 
-    return(
+    return (
         <>
-        <div class="row align-items-center container-fluid">
+            <div class="row align-items-center container-fluid">
                 <div class="col-2 ">
                     ACCOUNT NUMBER <i class="bi bi-list-ol"></i>
                     <hr />

@@ -1,12 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-icons/font/bootstrap-icons.css'
 
-export var Createtransactionform=()=>{
+export var Createtransactionform = () => {
 
 
-    return(
+    return (
         <>
-        <div className="container-fluid mt-2 ">
+            <div className="container-fluid mt-2 ">
                 <div className="row justify-content-center">
                     <div className="col-lg-8 col-md-0 col-sm-12 shadow-lg p-3 ">
                         <h1 className="text-primary text-uppercase fw-bolder text-center ">
